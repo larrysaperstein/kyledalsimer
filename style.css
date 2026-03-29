@@ -713,6 +713,7 @@ h2 {
   place-self: center;
   flex-direction: column;
   margin-top: -3rem;
+  padding: 0 2rem;
 }
 
 /* FOOTER */
