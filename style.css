@@ -641,6 +641,13 @@ h2 {
   border: 2px solid var(--gold-soft);
 }
 
+.film-button-wrapper {
+  display: flex;
+  direction: column;
+  place-content: center;
+  margin: 2rem;
+}
+
 /* PODCAST PAGE */
 
 .podcast-container{
