@@ -663,7 +663,7 @@ h2 {
   scroll-margin-top: var(--nav-height);
   height: 40vh;
   place-items: center;
-  background: url("images/process.PNG") center/cover no-repeat;
+  background: url("images/process.jpg") center/cover no-repeat;
   background-color: var(--black);
   text-align: center;
   color: var(--gold-soft);
