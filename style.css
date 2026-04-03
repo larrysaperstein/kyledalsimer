@@ -545,6 +545,7 @@ h2 {
   font-size:2.5rem;
   cursor:pointer;
   padding:.5rem 1rem;
+  z-index:9999999;
 }
 
 .lb-close{ top:20px; right:30px; font-size:3rem; }
