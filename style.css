@@ -661,8 +661,9 @@ h2 {
 .hero-podcast {
   display: flex;
   scroll-margin-top: var(--nav-height);
-  height: 20vh;
+  height: 40vh;
   place-items: center;
+  background: url("images/process.PNG") center/cover no-repeat;
   background-color: var(--black);
   text-align: center;
   color: var(--gold-soft);
